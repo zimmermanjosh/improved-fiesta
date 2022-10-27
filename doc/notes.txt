@@ -1,0 +1,11 @@
+make styles.css of colors and textures 
+#ffffff (main background, contrast font color) 
+#000000 (main font color) 
+#f2f2f2 (contrast background) 
+#1f1f1f (footer background)
+#2f80ed (links, accents) 
+#1f69c9 (link hover) 
+#c1c1c1 (link hover in footer) 
+
+
+++++++++++++++++++++++++++++++++
