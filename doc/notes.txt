@@ -9,3 +9,8 @@ make styles.css of colors and textures
 
 
 ++++++++++++++++++++++++++++++++
+d/l starter kit 
+get tools and references 
+add folders and files 
+watch videos 
+setup enviroments as per documentation 
