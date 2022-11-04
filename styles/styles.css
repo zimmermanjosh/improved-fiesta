@@ -27,8 +27,8 @@
 }
 
 .logo {
-  height: 196px;
-  width: 60px;
+  height: 60px;
+  width: 196px;
 }
 
 .nav__links {
@@ -200,6 +200,8 @@
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 12px;
+  height: 24px;
+  width: 24px;
 }
 
 .event-info__icon_type_calendar {
