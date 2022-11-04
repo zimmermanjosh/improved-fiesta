@@ -1,7 +1,11 @@
+# code owner:
+   zimmerman, joshua
+   e: zimmerman.joshua@gmail.com
+   github: location of file source code
+   https://github.com/zimmermanjosh/improved-fiesta
+
 # improved-fiesta
-
 Practicum-Sprint_One_Library_Part1
-
 # this is the part I of the project
 
 # Project 1: Practicum Library
