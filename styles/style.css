@@ -48,6 +48,11 @@
   font-weight: bold;
 }
 
+.hover:hover{
+  flex: automatically;
+  color: #1f69c9;
+}
+
 /* Add the hover state styles for .nav__link here */
 
 .header__title {
