@@ -249,6 +249,7 @@
   flex-basis: 780px;
   max-width: 780px;
   position: relative;
+  border: 1px solid red;
 }
 
 .events__image {
@@ -265,22 +266,32 @@
 
 .person_name_feynman {
   /* Use correct values of top/right/bottom/left properties to position the element */
+ top: -30px;
+ left:319px;
 }
 
 .person_name_burbidge {
   /* Use correct values of top/right/bottom/left properties to position the element */
+  top: 96px;
+  right: 125px;
 }
 
 .person_name_cannon {
   /* Use correct values of top/right/bottom/left properties to position the element */
+  bottom: 18px;
+  right: 216px;
 }
 
 .person_name_mitchell {
   /* Use correct values of top/right/bottom/left properties to position the element */
+  bottom: 82px;
+  left: 142px;
 }
 
 .person_name_tarter {
   /* Use correct values of top/right/bottom/left properties to position the element */
+  top: 79px;
+  left: 159px
 }
 
 .person__image {
